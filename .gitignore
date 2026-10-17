@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.blend
+*.blend1
+*.pmx
+*.pmd
+*.vmd
+SkinProjects/
+device_backups/
+.env
+.env.*
+*.log
